@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.error {
+  color: red;
+}
+
+.navbar {
+  border-bottom: #a57fc0 3px solid;
+  background: #49176d;
+}
+
+
+/* Home Section */
+#home {
+  background: url(../img/bcg.jpg), rgba(0,0,0,0.7);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+  opacity: 1;
+}
+
+
+#home .home-inner {
+  padding-top: 100px;
+}
+
+#home .card-form {
+  opacity: 0.9;
+  background: #49176d;
+}
+/* End of Home section */
+
+/* Ketogenic Diet  */
+#keto-diet-section {
+  background: #49176d;
+}
+/* End of Ketogenic Diet  */
